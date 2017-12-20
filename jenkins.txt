@@ -1,0 +1,13 @@
+41723c04189a47868be458f611bde649
+
+https://git-scm.com/downloads
+
+pwd present working directory
+
+cd /c/data
+
+cd .. come out 
+
+mkdir
+
+git init
